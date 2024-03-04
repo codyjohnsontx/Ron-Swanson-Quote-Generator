@@ -13,7 +13,7 @@ This is a simple website that fetches quotes from the Ron Swanson quotes API and
 
 ## About
 
-The Ron Swanson Quotes Website is a fun project that fetches quotes from the Ron Swanson quotes API and displays them on the webpage. It's a single-page application designed to provide users with a random Ron Swanson quote with just a click of a button.
+The Ron Swanson Quotes Website is a fun project that fetches quotes from the Ron Swanson quotes API and displays them on the webpage. It's a single-page application designed to provide users with a random Ron Swanson quote with just a click of Ron's head!
 
 ## Features
 
@@ -35,3 +35,16 @@ To use the Ron Swanson Quotes Website, simply open the provided URL in your web 
 ## License
 
 This project is licensed under the [MIT License](#).
+
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request. Here are some guidelines to follow:
+
+- Fork the repository and clone it to your local machine.
+- Create a new branch for your feature or bug fix: `git checkout -b feature/my-feature` or `git checkout -b bugfix/issue-number`.
+- Make your changes and test them thoroughly.
+- Commit your changes: `git commit -m "Description of your changes"`.
+- Push to your branch: `git push origin feature/my-feature`.
+- Submit a pull request with a detailed description of your changes.
+
+Please ensure that your contributions adhere to the project's coding standards and conventions. By contributing to this project, you agree to license your contributions under the same license as this project.
+
+Thank you for your interest in improving this project!

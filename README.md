@@ -36,8 +36,6 @@ To use the Ron Swanson Quotes Website, simply open the provided URL in your web 
 
 ## License
 
-This project is licensed under the [MIT License](#).
-
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request. Here are some guidelines to follow:
 
 - Fork the repository and clone it to your local machine.
@@ -49,4 +47,14 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 Please ensure that your contributions adhere to the project's coding standards and conventions. By contributing to this project, you agree to license your contributions under the same license as this project.
 
-Thank you for your interest in improving this project!
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+Created by Cody Johnson.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cody-johnson-92460b124/).
+
+Feel free to reach out with any questions or suggestions!
